@@ -1,0 +1,5 @@
+Some quick & dirty scripts for managing PuSH subscriptions.
+
+Assumption is that there is a 'db' subdirectory that an SQLite
+database is stashed in, and that the webserver user can write
+to that directory.
